@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/carcinoma-in-situ_cervical-grade---primary.py
+inputModule3:
+  class: File
+  path: python/carcinoma-in-situ_cervical-cervix---primary.py
+inputModule4:
+  class: File
+  path: python/vpersonal-carcinoma-in-situ_cervical---primary.py
+inputModule5:
+  class: File
+  path: python/glandular-carcinoma-in-situ_cervical---primary.py
+inputModule6:
+  class: File
+  path: python/carcinoma-in-situ_cervical-dyskaryosis---primary.py
+inputModule7:
+  class: File
+  path: python/carcinoma-in-situ_cervical-smear---primary.py
+inputModule8:
+  class: File
+  path: python/carcinoma-in-situ_cervical-dysplasia---primary.py
+inputModule9:
+  class: File
+  path: python/carcinoma-in-situ_cervical-neoplasia---primary.py
+inputModule10:
+  class: File
+  path: python/moderate-carcinoma-in-situ_cervical---primary.py
+inputModule11:
+  class: File
+  path: python/carcinoma-in-situ_cervical-uteri---primary.py
+inputModule12:
+  class: File
+  path: python/severe-carcinoma-in-situ_cervical---primary.py
+inputModule13:
+  class: File
+  path: python/carcinoma---primary.py
+inputModule14:
+  class: File
+  path: python/carcinoma-in-situ_cervical-history---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
