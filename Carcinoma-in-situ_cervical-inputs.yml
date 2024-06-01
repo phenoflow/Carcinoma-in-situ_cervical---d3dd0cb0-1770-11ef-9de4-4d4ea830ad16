@@ -12,7 +12,7 @@ inputModule3:
   path: python/carcinoma-in-situ_cervical-cervix---primary.py
 inputModule4:
   class: File
-  path: python/vpersonal-carcinoma-in-situ_cervical---primary.py
+  path: python/personal-carcinoma-in-situ_cervical---primary.py
 inputModule5:
   class: File
   path: python/glandular-carcinoma-in-situ_cervical---primary.py
