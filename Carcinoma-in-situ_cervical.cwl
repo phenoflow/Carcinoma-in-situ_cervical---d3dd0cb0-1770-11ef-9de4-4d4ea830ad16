@@ -30,8 +30,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: carcinoma-in-situ_cervical-grade---primary/output
-  vpersonal-carcinoma-in-situ_cervical---primary:
-    run: vpersonal-carcinoma-in-situ_cervical---primary.cwl
+  personal-carcinoma-in-situ_cervical---primary:
+    run: personal-carcinoma-in-situ_cervical---primary.cwl
     out:
     - output
     in:
@@ -51,7 +51,7 @@ steps:
         source: inputModule5
       potentialCases:
         id: potentialCases
-        source: vpersonal-carcinoma-in-situ_cervical---primary/output
+        source: personal-carcinoma-in-situ_cervical---primary/output
   carcinoma-in-situ_cervical-dyskaryosis---primary:
     run: carcinoma-in-situ_cervical-dyskaryosis---primary.cwl
     out:
